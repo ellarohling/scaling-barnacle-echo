@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto&display=swap");
+
+body {
+  background-image: linear-gradient(pink, yellow);
+
+}
+
+.card-header{
+  color: black;
+}
+
+h4{
+  color: black;     
+
+}
+
+h6{
+  margin-left:4mm;
+
+}
+
+#cardOutput{
+  margin-top:4mm;
+  margin-bottom:4mm;
+}
+
+.game-card{
+  color: black;
+  padding-top:4mm;
+  background-color:white;
+  height:100%;
+  width:100%;
+}
